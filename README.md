@@ -138,25 +138,6 @@ STATUS: DEVELOPMENT_IN_PROGRESS...
 
 ---
 
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevFcodes&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DevFcodes/DevFcodes/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 

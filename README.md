@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00f7ff?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LOCATION-BRAZIL-00ff88?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/ETEC-DESENVOLVIMENTO%20DE%20SISTEMAS-ff0055?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ETEC-SYSTEMS%20DEVELOPMENT-ff0055?style=for-the-badge" />
 
 <br><br>
 
@@ -19,26 +19,26 @@
 
 ---
 
-## 🧠 Sobre Mim
+## 🧠 About Me
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                    DEVFCODES // PROFILE                     ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Nome.......: Fabricio                                       ║
+║  Name.......: Fabricio                                       ║
 ║  Codename...: DevFcodes                                      ║
-║  Instituição: ETEC UIRAPURU                                 ║
-║  Curso......: Desenvolvimento de Sistemas                    ║
-║  Status.....: Desenvolvedor em formação                      ║
-║  Foco.......: Software • Web • Apps • Backend                ║
+║  Institution: ETEC UIRAPURU                                 ║
+║  Course.....: Systems Development                            ║
+║  Status.....: Developer in training                          ║
+║  Focus......: Software • Web • Apps • Backend                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-Sou estudante de **Desenvolvimento de Sistemas na ETEC UIRAPURU**, apaixonado por tecnologia, programação e criação de sistemas.
+I am a **Systems Development student at ETEC UIRAPURU**, passionate about technology, programming, and building software systems.
 
-Atualmente estou evoluindo principalmente em **Java, JavaScript, HTML, CSS, Python, PHP e MySQL**, desenvolvendo projetos que vão desde aplicações web até sistemas completos e aplicativos.
+Currently, I am mainly developing my skills in **Java, JavaScript, HTML, CSS, Python, PHP, and MySQL**, working on projects ranging from web applications to complete systems and mobile apps.
 
-Meu objetivo é transformar ideias em sistemas funcionais, modernos e bem estruturados — sempre aprendendo alguma coisa nova no processo.
+My goal is to turn ideas into functional, modern, and well-structured systems — always learning something new along the way.
 
 ```text
 > Loading skills...
@@ -56,13 +56,13 @@ Meu objetivo é transformar ideias em sistemas funcionais, modernos e bem estrut
 
 <div align="center">
 
-### 💻 Linguagens
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css,python,php,mysql" />
 
 <br><br>
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma,sqlite,nodejs,flask" />
 
@@ -70,25 +70,25 @@ Meu objetivo é transformar ideias em sistemas funcionais, modernos e bem estrut
 
 ---
 
-# 🧰 Ferramentas que fazem parte do meu arsenal
+# 🧰 Tools in My Arsenal
 
-| Ferramenta            | Utilização                               |
-| --------------------- | ---------------------------------------- |
-| ☕ **Java**            | Desenvolvimento de aplicações e sistemas |
-| 🐍 **Python**         | Backend, automações e aplicações web     |
-| 🐘 **PHP**            | Desenvolvimento web e backend            |
-| 🌐 **JavaScript**     | Interatividade e aplicações web          |
-| 🎨 **HTML / CSS**     | Estrutura e interface dos projetos       |
-| 🗄️ **MySQL**         | Banco de dados                           |
-| 🐙 **Git & GitHub**   | Versionamento e colaboração              |
-| 📱 **Android Studio** | Desenvolvimento mobile                   |
-| 🧪 **Flask**          | Backend com Python                       |
-| 🗃️ **SQLite**        | Banco de dados local                     |
-| 💻 **VS Code**        | Desenvolvimento diário                   |
+| Tool                  | Usage                                     |
+| --------------------- | ----------------------------------------- |
+| ☕ **Java**            | Application and system development        |
+| 🐍 **Python**         | Backend, automation, and web applications |
+| 🐘 **PHP**            | Web development and backend               |
+| 🌐 **JavaScript**     | Interactivity and web applications        |
+| 🎨 **HTML / CSS**     | Project structure and interfaces          |
+| 🗄️ **MySQL**         | Database management                       |
+| 🐙 **Git & GitHub**   | Version control and collaboration         |
+| 📱 **Android Studio** | Mobile development                        |
+| 🧪 **Flask**          | Python backend development                |
+| 🗃️ **SQLite**        | Local database management                 |
+| 💻 **VS Code**        | Daily development                         |
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -112,41 +112,41 @@ Meu objetivo é transformar ideias em sistemas funcionais, modernos e bem estrut
 
 ### 🛒 SaleExpress
 
-**E-commerce desenvolvido como projeto acadêmico**, envolvendo desenvolvimento web, backend e banco de dados.
+**E-commerce application developed as an academic project**, involving web development, backend, and database integration.
 
 **Stack:** Python • Flask • HTML • CSS • JavaScript • SQLite
 
-🔗 [Ver projeto](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
+🔗 [View project](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
 
 ---
 
 ### 🥗 NutriTrack
 
-Sistema de **nutrição atualmente em desenvolvimento**, pensado para gerenciamento de informações e acompanhamento relacionado à alimentação.
+**Nutrition system currently under development**, designed for information management and food-related tracking.
 
-**Stack:** Java • Banco de Dados • Desenvolvimento de Sistemas
+**Stack:** Java • Database • Systems Development
 
-🔗 [Ver projeto](https://github.com/DevFcodes/NutriTrackCF)
+🔗 [View project](https://github.com/DevFcodes/NutriTrackCF)
 
 ---
 
 ### 🎵 DevFy Premium
 
-Projeto de **plataforma/site de música**, atualmente em desenvolvimento, focado em criar uma experiência moderna para reprodução e organização de músicas.
+**Music platform/website project**, currently under development, focused on creating a modern experience for music playback and organization.
 
 **Stack:** HTML • CSS • JavaScript
 
-🔗 [Ver projeto](https://github.com/DevFcodes/devfy-premium)
+🔗 [View project](https://github.com/DevFcodes/devfy-premium)
 
 ---
 
 ### 🚚 App Delivery
 
-Aplicativo desenvolvido utilizando **Java + XML**, explorando conceitos de desenvolvimento mobile e construção de interfaces.
+Mobile application developed using **Java + XML**, exploring mobile development concepts and user interface design.
 
 **Stack:** Java • XML • Android Studio
 
-🔗 [Ver projeto](https://github.com/DS-CODIGO-JAVA/App-delivery001)
+🔗 [View project](https://github.com/DS-CODIGO-JAVA/App-delivery001)
 
 ---
 
@@ -156,18 +156,18 @@ Aplicativo desenvolvido utilizando **Java + XML**, explorando conceitos de desen
 ┌──(devfcodes㉿github)-[~/system/objectives]
 └─$ ./status.sh
 
-[✓] Estudar Java
-[✓] Evoluir em Desenvolvimento Web
-[✓] Criar aplicações com JavaScript
-[✓] Trabalhar com bancos de dados
-[✓] Desenvolver projetos acadêmicos
-[✓] Aprender desenvolvimento mobile
+[✓] Study Java
+[✓] Improve Web Development skills
+[✓] Build applications with JavaScript
+[✓] Work with databases
+[✓] Develop academic projects
+[✓] Learn mobile development
 
-[>] Desenvolver sistemas maiores
-[>] Melhorar arquitetura de software
-[>] Evoluir em Backend
-[>] Criar projetos Full Stack
-[>] Construir um portfólio cada vez mais sólido
+[>] Build larger systems
+[>] Improve software architecture
+[>] Level up in Backend Development
+[>] Create Full Stack projects
+[>] Build an increasingly solid portfolio
 
 STATUS: DEVELOPMENT_IN_PROGRESS...
 ```
@@ -222,10 +222,9 @@ STATUS: DEVELOPMENT_IN_PROGRESS...
 
 </div>
 
-
 ---
 
-# 🌐 Conecte-se comigo
+# 🌐 Connect With Me
 
 <div align="center">
 

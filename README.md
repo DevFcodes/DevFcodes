@@ -85,6 +85,18 @@ A **music platform project** focused on creating a modern interface for music pl
 
 ---
 
+### 🎓 Cadastro Aluno GUI (Swing + MySQL)
+
+A **student registration system** developed with Java and MySQL, featuring a complete **CRUD workflow** for managing student records.
+
+The project explores GUI development, database integration, and data persistence using Java.
+
+**Stack:** Java • Swing • MySQL • CRUD
+
+[View project](https://github.com/DS-CODIGO-JAVA/CadastroAlunoGUI)
+
+---
+
 ### 🚚 App Delivery
 
 A mobile application developed with **Java and XML**, exploring Android development and interface design.

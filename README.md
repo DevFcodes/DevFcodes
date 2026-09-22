@@ -2,7 +2,7 @@
 
 # ⚡ FABRICIO // DEVFCODES
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+BOOT+%5D+INITIALIZING+DEVFCODES...;%3E+ACCESS+GRANTED+%3C;%3E+JAVA+%7C+JAVASCRIPT+%7C+PYTHON+%7C+PHP;%3E+FULL+STACK+DEVELOPER+IN+TRAINING;%3E+WELCOME+TO+MY+DIGITAL+LABORATORY..." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=%5B+SYSTEM+BOOT+%5D+INITIALIZING+DEVFCODES...;%3E+ACCESS+GRANTED+%3C;%3E+JAVA+%7C+JAVASCRIPT+%7C+PYTHON+%7C+PHP;%3E+FULL+STACK+DEVELOPER+IN+TRAINING;%3E+WELCOME+TO+MY+DIGITAL+LAB..." alt="Typing Animation" />
 
 <br>
 
@@ -21,48 +21,31 @@
 
 ## 🧠 About Me
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    DEVFCODES // PROFILE                     ║
-╠══════════════════════════════════════════════════════════════╣
-║  Name.......: Fabricio                                       ║
-║  Codename...: DevFcodes                                      ║
-║  Institution: ETEC UIRAPURU                                 ║
-║  Course.....: Systems Development                            ║
-║  Status.....: Developer in training                          ║
-║  Focus......: Software • Web • Apps • Backend                ║
-╚══════════════════════════════════════════════════════════════╝
-```
+I'm a **Systems Development student at ETEC UIRAPURU**, passionate about software development, technology, and building things from scratch.
 
-I am a **Systems Development student at ETEC UIRAPURU**, passionate about technology, programming, and building software systems.
+I'm currently focused on **Java, JavaScript, Python, PHP, HTML, CSS, and MySQL**, while exploring backend development, databases, web applications, and mobile development.
 
-Currently, I am mainly developing my skills in **Java, JavaScript, HTML, CSS, Python, PHP, and MySQL**, working on projects ranging from web applications to complete systems and mobile apps.
-
-My goal is to turn ideas into functional, modern, and well-structured systems — always learning something new along the way.
+I enjoy turning ideas into real projects and using each one as an opportunity to learn something new.
 
 ```text
-> Loading skills...
-████████████████████████████████████████ 100%
-
-> Learning mode:      ACTIVE
-> Coding mode:        ACTIVE
-> Coffee mode:        OPTIONAL
-> Bug mode:           ALWAYS ACTIVE
+> Learning mode: ACTIVE
+> Coding mode:  ACTIVE
+> Bug mode:     ALWAYS ACTIVE
 ```
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css,python,php,mysql" />
 
 <br><br>
 
-### 🛠️ Technologies & Tools
+### Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma,sqlite,nodejs,flask" />
 
@@ -70,111 +53,72 @@ My goal is to turn ideas into functional, modern, and well-structured systems �
 
 ---
 
-# 🧰 Tools in My Arsenal
-
-| Tool                  | Usage                                     |
-| --------------------- | ----------------------------------------- |
-| ☕ **Java**            | Application and system development        |
-| 🐍 **Python**         | Backend, automation, and web applications |
-| 🐘 **PHP**            | Web development and backend               |
-| 🌐 **JavaScript**     | Interactivity and web applications        |
-| 🎨 **HTML / CSS**     | Project structure and interfaces          |
-| 🗄️ **MySQL**         | Database management                       |
-| 🐙 **Git & GitHub**   | Version control and collaboration         |
-| 📱 **Android Studio** | Mobile development                        |
-| 🧪 **Flask**          | Python backend development                |
-| 🗃️ **SQLite**        | Local database management                 |
-| 💻 **VS Code**        | Daily development                         |
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFcodes&repo=SALEEXPRESS-COM-PYTHON&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/DevFcodes/NutriTrackCF">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFcodes&repo=NutriTrackCF&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/DevFcodes/devfy-premium">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevFcodes&repo=devfy-premium&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/DS-CODIGO-JAVA/App-delivery001">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DS-CODIGO-JAVA&repo=App-delivery001&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+## 🚀 Featured Projects
 
 ### 🛒 SaleExpress
 
-**E-commerce application developed as an academic project**, involving web development, backend, and database integration.
+An academic **e-commerce project** built to explore web development, backend logic, and database integration.
 
 **Stack:** Python • Flask • HTML • CSS • JavaScript • SQLite
 
-🔗 [View project](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
+[View project](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
 
 ---
 
 ### 🥗 NutriTrack
 
-**Nutrition system currently under development**, designed for information management and food-related tracking.
+A **nutrition management system currently under development**, focused on data management and health-related tracking features.
 
 **Stack:** Java • Database • Systems Development
 
-🔗 [View project](https://github.com/DevFcodes/NutriTrackCF)
+[View project](https://github.com/DevFcodes/NutriTrackCF)
 
 ---
 
 ### 🎵 DevFy Premium
 
-**Music platform/website project**, currently under development, focused on creating a modern experience for music playback and organization.
+A **music platform project** focused on creating a modern interface for music playback and organization.
 
 **Stack:** HTML • CSS • JavaScript
 
-🔗 [View project](https://github.com/DevFcodes/devfy-premium)
+[View project](https://github.com/DevFcodes/devfy-premium)
 
 ---
 
 ### 🚚 App Delivery
 
-Mobile application developed using **Java + XML**, exploring mobile development concepts and user interface design.
+A mobile application developed with **Java and XML**, exploring Android development and interface design.
 
 **Stack:** Java • XML • Android Studio
 
-🔗 [View project](https://github.com/DS-CODIGO-JAVA/App-delivery001)
+[View project](https://github.com/DS-CODIGO-JAVA/App-delivery001)
 
 ---
 
-# 🖥️ CURRENT OBJECTIVES
+## 🖥️ Current Objectives
 
 ```bash
-┌──(devfcodes㉿github)-[~/system/objectives]
+┌──(devfcodes㉿github)-[~/system]
 └─$ ./status.sh
 
-[✓] Study Java
-[✓] Improve Web Development skills
-[✓] Build applications with JavaScript
+[✓] Improve Java skills
+[✓] Build web applications
 [✓] Work with databases
-[✓] Develop academic projects
-[✓] Learn mobile development
+[✓] Explore mobile development
+[✓] Build academic projects
 
-[>] Build larger systems
+[>] Design larger systems
 [>] Improve software architecture
-[>] Level up in Backend Development
-[>] Create Full Stack projects
-[>] Build an increasingly solid portfolio
+[>] Go deeper into backend development
+[>] Build more Full Stack projects
+[>] Strengthen my portfolio
 
 STATUS: DEVELOPMENT_IN_PROGRESS...
 ```
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -194,7 +138,7 @@ STATUS: DEVELOPMENT_IN_PROGRESS...
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
 
@@ -204,27 +148,17 @@ STATUS: DEVELOPMENT_IN_PROGRESS...
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contributions
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevFcodes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+<img src="https://raw.githubusercontent.com/DevFcodes/DevFcodes/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation">
 
 </div>
 
 ---
 
-# 🐍 Contribution System
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DevFcodes/DevFcodes/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-
-</div>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -240,27 +174,11 @@ STATUS: DEVELOPMENT_IN_PROGRESS...
 <img src="https://img.shields.io/badge/Email-devcodes126%40gmal.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        [ DEVFCODES SYSTEM // SHUTDOWN ]             ║
-║                                                      ║
-║        Keep coding. Keep learning. Keep building.    ║
-║                                                      ║
-║                 SYSTEM STATUS: ONLINE               ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=DevFcodes&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
 
-<br>
+<br><br>
 
 ### `⚡ CODE • CREATE • DEBUG • REPEAT ⚡`
 

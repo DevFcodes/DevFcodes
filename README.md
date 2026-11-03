@@ -117,12 +117,6 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 <div align="center">
 
-<!-- Stats and top languages: community mirror, since the main Vercel instance is often rate-limited -->
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevFcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevFcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=DevFcodes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>

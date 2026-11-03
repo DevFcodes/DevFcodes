@@ -85,19 +85,7 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 </td>
 <td width="50%" valign="top">
 
-### SaleExpress
 
-**Web sales application** built with Flask.
-
-`Python` `Flask`
-
-[**View project**](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## Roadmap
 

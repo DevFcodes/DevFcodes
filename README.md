@@ -96,20 +96,6 @@ Academic **e-commerce** project exploring web development, back-end logic and da
 <tr>
 <td width="50%" valign="top">
 
-### 🎵 DevFy Premium
-**Music platform** with a modern interface for playback and organization.
-
-`HTML` `CSS` `JavaScript`
-
-[**View project →**](https://github.com/DevFcodes/devfy-premium)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
 <br>
 
 ## 🎯 Roadmap

@@ -1,9 +1,9 @@
-<!-- Banner animado (ondas) -->
+<!-- Animated banner (waves) -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=240&section=header&text=Fabricio&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Systems%20Development%20Student%20%E2%80%A2%20Full%20Stack%20Developer%20in%20Training&descSize=18&descAlignY=58" alt="Fabricio - Banner" width="100%" />
 
-<!-- Texto digitando -->
+<!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Java+%7C+JavaScript+%7C+Python+%7C+PHP;Back-end+%26+Database+Enthusiast;Building+real+projects%2C+one+commit+at+a+time" alt="Typing animation" />
 
 <br><br>
@@ -16,21 +16,19 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full Stack developer**, with a strong interest in **Java and back-end development**. I learn best by building real projects, from desktop and web applications to mobile apps.
 
-| | |
-|---|---|
-| 🔭 **Currently** | Building web and desktop applications with Java, Python and MySQL |
-| 🌱 **Learning** | Back-end architecture, databases and software design |
-| 🎓 **Education** | Systems Development @ ETEC Uirapuru |
-| 📍 **Location** | Brazil |
-| 💼 **Looking for** | My first opportunity: Internship or Junior Developer |
+- **Currently:** building web and desktop applications with Java, Python and MySQL
+- **Learning:** back-end architecture, databases and software design
+- **Education:** Systems Development at ETEC Uirapuru
+- **Location:** Brazil
+- **Looking for:** my first opportunity, as an intern or junior developer
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -38,7 +36,7 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 <img src="https://skillicons.dev/icons?i=java,js,html,css,python,php,mysql" />
 
-**Tools & Frameworks**
+**Tools and Frameworks**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma,sqlite,nodejs,flask" />
 
@@ -46,59 +44,54 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 SaleExpress
-Academic **e-commerce** project exploring web development, back-end logic and database integration.
+### Cadastro Aluno GUI
 
-`Python` `Flask` `HTML` `CSS` `JavaScript` `SQLite`
+**Student registration system** with a complete CRUD workflow, GUI development and data persistence.
 
-[**View project →**](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
+`Java` `Swing` `MySQL` `JDBC`
+
+[**View project**](https://github.com/DS-CODIGO-JAVA/CadastroAlunoGUI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🥗 NutriTrack
+### NutriTrack
+
 **Nutrition management system** (in development) focused on data management and health tracking features.
 
 `Java` `Database`
 
-[**View project →**](https://github.com/DevFcodes/NutriTrackCF)
+[**View project**](https://github.com/DevFcodes/NutriTrackCF)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Cadastro Aluno GUI
-**Student registration system** with a complete CRUD workflow, GUI development and data persistence.
+### App Delivery
 
-`Java` `Swing` `MySQL` `CRUD`
-
-[**View project →**](https://github.com/DS-CODIGO-JAVA/CadastroAlunoGUI)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 App Delivery
 **Android application** exploring mobile development and interface design.
 
 `Java` `XML` `Android Studio`
 
-[**View project →**](https://github.com/DS-CODIGO-JAVA/App-delivery001)
+[**View project**](https://github.com/DS-CODIGO-JAVA/App-delivery001)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
 <br>
 
-## 🎯 Roadmap
+## Roadmap
 
 - [x] Improve Java skills
 - [x] Build web applications
@@ -112,7 +105,7 @@ Academic **e-commerce** project exploring web development, back-end logic and da
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -127,7 +120,7 @@ Academic **e-commerce** project exploring web development, back-end logic and da
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 

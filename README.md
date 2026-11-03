@@ -85,7 +85,11 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 </td>
 <td width="50%" valign="top">
 
+</td>
+</tr>
+</table>
 
+<br>
 
 ## Roadmap
 

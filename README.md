@@ -8,9 +8,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/fabricio-n-b735b53aa"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:devcodes126@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP%20%7C%20JUNIOR-16a34a?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/fabricio-n-b735b53aa"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:devcodes126@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP%20%7C%20JUNIOR-16a34a?style=for-the-badge" alt="Open to internship or junior roles" />
 
 </div>
 
@@ -34,11 +34,11 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,python,php,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python,php,mysql" alt="Languages" />
 
 **Tools and Frameworks**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma,sqlite,nodejs,flask" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,figma,sqlite,nodejs,flask" alt="Tools and frameworks" />
 
 </div>
 
@@ -65,7 +65,7 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 **Nutrition management system** (in development) focused on data management and health tracking features.
 
-`Java` `Database`
+`Java` `Maven` `SQLite`
 
 [**View project**](https://github.com/DevFcodes/NutriTrackCF)
 
@@ -84,6 +84,14 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 </td>
 <td width="50%" valign="top">
+
+### SaleExpress
+
+**Web sales application** built with Flask.
+
+`Python` `Flask`
+
+[**View project**](https://github.com/DevFcodes/SALEEXPRESS-COM-PYTHON)
 
 </td>
 </tr>
@@ -109,12 +117,13 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevFcodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevFcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<!-- Stats and top languages: community mirror, since the main Vercel instance is often rate-limited -->
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevFcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevFcodes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=DevFcodes&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=DevFcodes&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
@@ -124,12 +133,12 @@ I'm a **Systems Development student at ETEC Uirapuru** and an aspiring **Full St
 
 <div align="center">
 
-<a href="https://github.com/DevFcodes"><img src="https://img.shields.io/badge/GitHub-DevFcodes-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/fabricio-n-b735b53aa"><img src="https://img.shields.io/badge/LinkedIn-Fabricio%20N.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:devcodes126@gmail.com"><img src="https://img.shields.io/badge/Email-devcodes126%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/DevFcodes"><img src="https://img.shields.io/badge/GitHub-DevFcodes-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/fabricio-n-b735b53aa"><img src="https://img.shields.io/badge/LinkedIn-Fabricio%20N.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:devcodes126@gmail.com"><img src="https://img.shields.io/badge/Email-devcodes126%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:6d28d9,100:a855f7&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
